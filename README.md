@@ -90,4 +90,7 @@ In this project, I built a complete AI-based pipeline to extract and analyze fin
 
 ---
 
-Let me know if you'd like this turned into a PDF, DOCX, or formatted for slides.
+🤗 Project Link on Hugging Face
+🔗 View My Project on Hugging Face
+
+(https://huggingface.co/spaces/Indhu27/ITC-analysis)
