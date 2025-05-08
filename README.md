@@ -1,6 +1,3 @@
-Got it! Here's the same document, rewritten in **first person** to reflect that **you** did the work. You can copy and paste this as your final project documentation.
-
----
 
 # 📄 Project Walkthrough: ITC Financial Analysis with AI
 
