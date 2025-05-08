@@ -1,5 +1,5 @@
 
-# 📄 Project Walkthrough: ITC Financial Analysis with AI
+# 📄 ITC Financial Analysis with AI
 
 This document explains step-by-step what I implemented in my project, which focuses on extracting and analyzing financial data from ITC Limited’s annual reports using web scraping and large language models (LLMs).
 
